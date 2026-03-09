@@ -1,0 +1,68 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (contains SDK path - do NOT commit)
+local.properties
+
+# Android Studio IDE files
+*.iml
+.idea/
+*.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore files (NEVER commit these)
+*.jks
+*.keystore
+
+# Google Services (if it contains sensitive keys, move to local only)
+# google-services.json
+
+# Navigation editor temp files
+.navigation/
+
+# Kotlin build output
+kotlin/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
